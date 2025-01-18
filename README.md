@@ -3,7 +3,7 @@
 ![GIF de Programador](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ```
-Estudando programação a mais de 2 anos!.
+Estudo programação há mais de 2 anos!
 Atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
 <img src="https://github.com/tsoares-dev/tsoares/blob/main/img/github-contribution-grid-snake.svg">
@@ -62,11 +62,11 @@ Estou cursando **Engenharia de Software** na **Anhanguera**, com previsão de fo
 
 - Sou uma pessoa bem criativa. 🎨💡🎲
 
-- Sou apaixonado em tecnologia e coisas novas. 💻🖱️📱
+- Sou apaixonado por e coisas novas. 💻🖱️📱
 
 - Sou nerd! Amo videogame, series/filmes e a cultura pop no geral.🕹️🍿🎸
 
-- Meu sonho é progamer meu própio game e escrever um livro.🎮📖⭐
+- Meu sonho é programar meu próprio game e escrever um livro.🎮📖⭐
 
 
 ## Outros contatos 📨
