@@ -62,7 +62,7 @@ Estou cursando **Engenharia de Software** na **Anhanguera**, com previsão de fo
 
 - Sou uma pessoa bem criativa. 🎨💡🎲
 
-- Sou apaixonado por e coisas novas. 💻🖱️📱
+- Sou apaixonado por tecnologia e coisas novas. 💻🖱️📱
 
 - Sou nerd! Amo videogame, series/filmes e a cultura pop no geral.🕹️🍿🎸
 
